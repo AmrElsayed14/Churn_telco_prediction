@@ -9,8 +9,12 @@ In this project, you will build a deep learning model to predict customer churn 
 
 Tech Stack:
 
-Python: For data processing, data manipulation, and deep learning model development
-Data Analytics: Utilize libraries like pandas, NumPy, and Matplotlib for data analysis and visualization
-SQL: Extract and clean customer data from relational databases using SQL queries
-Deep Learning: Employ a deep learning framework like TensorFlow or PyTorch to build the churn prediction model
-Docker: Package and deploy the deep learning model as a Docker image for deployment in production environments
+* Python: For data processing, data manipulation, and deep learning model development
+
+* Data Analytics: Utilize libraries like pandas, NumPy, and Matplotlib for data analysis and visualization
+
+* SQL: Extract and clean customer data from relational databases using SQL queries
+
+* Deep Learning: Employ a deep learning framework like TensorFlow or PyTorch to build the churn prediction model
+
+* Docker: Package and deploy the deep learning model as a Docker image for deployment in production environments
